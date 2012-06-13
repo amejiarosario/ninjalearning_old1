@@ -1,10 +1,14 @@
-h1. Ninjalearning
+h1. Ninja Learning
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Semantic eLearning resources manager
 
 h2. More Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Today there is a lot of online resources/information and tutorials out there. Online tutorials have some advantage over printed books. They are are updated constantly (some times daily), something that cannot be done in a printed book. However, in a book you can place a bookmark to know where you let off last time, but how do you do that online? and what about if you are reading many tutorials at the same time? You can use the bookmarks (or favorites) feature in your browser, but using the browser's bookmarks in time they will become a lot! and you will be confuse between the old, new ones and the one that are not for keeping track of your visited tutorials.
+
+Solution: an web app that allow you to keep track of your tutorial, make suggestions, collaborate, and received/send suggestions from friends, connect to social network and more...
+There is open-source software, open-hardware, open-information, distributed knowledge, why not an open and collaborative e-university??
+
 
 h2. Required Gems
 
