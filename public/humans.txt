@@ -3,10 +3,10 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site:
-  Twitter:
-  Location:
+  Software Engineer: Adrian Mejia
+  Site: http://adrianmejia.com
+  Twitter: amejiarosario.com
+  Location: Boston, MA
 
 /* THANKS */
   Daniel Kehoe (@rails_apps) for the RailsApps project
