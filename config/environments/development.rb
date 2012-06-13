@@ -20,6 +20,15 @@ Ninjalearning::Application.configure do
   config.action_mailer.perform_deliveries = false
   config.action_mailer.raise_delivery_errors = true
   config.action_mailer.default :charset => "utf-8"
+  config.action_mailer.smtp_settings = {
+    address: "slan-550-14.anhosting.com",
+    port: 465,
+    domain: "ninjalearning.com",
+    authentication: "plain",
+    enable_starttls_auto: true,
+    user_name: ENV["NINJA_EMAIL_USERNAME"],
+    password: ENV["NINJA_EMAIL_PASSWORD"]
+  }
   
 
 
