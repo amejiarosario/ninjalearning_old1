@@ -80,5 +80,31 @@ module Ninjalearning
     # forcing your application to not access the DB
     # or load models when precompiling your assets.
     
+    #
+    # Emails
+    #
+    
+    # config.action_mailer.smtp_settings = {
+    #   address: "slan-550-14.anhosting.com",
+    #   port: 465,
+    #   domain: "ninjalearning.com",
+    #   authentication: "plain",
+    #   enable_starttls_auto: true,
+    #   user_name: ENV["NINJA_EMAIL_USERNAME"],
+    #   password: ENV["NINJA_EMAIL_PASSWORD"]
+    # }
+
+    # Gmail email setup
+    config.action_mailer.smtp_settings = {
+      address: "smtp.gmail.com",
+      port: 587,
+      domain: "gmail.com",
+      authentication: "plain",
+      enable_starttls_auto: true,
+      user_name: ENV["GMAIL_USERNAME"],
+      password: ENV["GMAIL_PASSWORD"]
+    }    
+    
+    
   end
 end
