@@ -17,6 +17,7 @@ gem 'rails'
 gem 'thin'
 group :development, :test do
   gem 'sqlite3'
+  gem 'spork'
 end
 group :production do
   gem 'pg'
