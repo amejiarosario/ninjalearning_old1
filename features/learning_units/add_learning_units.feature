@@ -1,4 +1,4 @@
-@wip
+@wip @dev
 Feature: Add learning units
   In order to add learning units (tutorials, courses or any other learning material)
   As a registered user of the system
