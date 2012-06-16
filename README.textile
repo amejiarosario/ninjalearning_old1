@@ -1,8 +1,6 @@
 h1. Ninja Learning
 
-"!https://secure.travis-ci.org/amejiarosario/ninjalearning.png!":http://travis-ci.org/amejiarosario/ninjalearning
-"!https://gemnasium.com/amejiarosario/ninjalearning.png!":https://gemnasium.com/amejiarosario/ninjalearning
-"!https://codeclimate.com/badge.png!":https://codeclimate.com/github/amejiarosario/ninjalearning
+"!https://secure.travis-ci.org/amejiarosario/ninjalearning.png!":http://travis-ci.org/amejiarosario/ninjalearning "!https://gemnasium.com/amejiarosario/ninjalearning.png!":https://gemnasium.com/amejiarosario/ninjalearning "!https://codeclimate.com/badge.png!":https://codeclimate.com/github/amejiarosario/ninjalearning
 
 Semantic eLearning resources manager
 
