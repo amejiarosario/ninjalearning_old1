@@ -13,7 +13,7 @@
 #     gem 'rb-notifu', :group => :development
 # end
 source 'https://rubygems.org'
-gem 'rails', '3.2.5'
+gem 'rails'
 gem 'thin'
 group :development, :test do
   gem 'sqlite3'

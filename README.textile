@@ -1,5 +1,9 @@
 h1. Ninja Learning
 
+"!https://secure.travis-ci.org/amejiarosario/ninjalearning.png!":http://travis-ci.org/amejiarosario/ninjalearning
+"!https://gemnasium.com/amejiarosario/ninjalearning.png!":https://gemnasium.com/amejiarosario/ninjalearning
+"!https://codeclimate.com/badge.png!":https://codeclimate.com/github/amejiarosario/ninjalearning
+
 Semantic eLearning resources manager
 
 h2. More Information
@@ -8,7 +12,6 @@ Today there is a lot of online resources/information and tutorials out there. On
 
 Solution: an web app that allow you to keep track of your tutorial, make suggestions, collaborate, and received/send suggestions from friends, connect to social network and more...
 There is open-source software, open-hardware, open-information, distributed knowledge, why not an open and collaborative e-university??
-
 
 h2. Required Gems
 
@@ -20,8 +23,8 @@ h2. Dependencies
 
 To use this application, you will need:
 
-* The Ruby language (version 1.8.7 or 1.9.2)
-* Rails (version 3.0.4 or newer)
+* The Ruby language (version 1.8.7 or 1.9.3)
+* Rails (version 3.2.6 or newer)
 
 h2. Installing the Application
 
