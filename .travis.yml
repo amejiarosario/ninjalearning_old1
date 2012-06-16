@@ -5,5 +5,5 @@ rvm:
 gemfile:
   - Gemfile
 script:
-  - bundle exec rake rspec 
-  - bundle exec rake cucumber f
+  - bundle exec rake spec 
+  - bundle exec rake cucumber
